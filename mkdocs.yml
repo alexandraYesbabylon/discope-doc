@@ -51,5 +51,8 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 nav:
-  - 'Welcome':
-      - 'Discope': 'index.md'
+  - 'Configuration':
+      - 'Base': 'index.md'
+      - 'Ventes': 'sale.md'
+      - 'Finances': 'finance.md'
+      - 'Communication': 'comunication.md'
