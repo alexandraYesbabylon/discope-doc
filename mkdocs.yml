@@ -51,8 +51,14 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 nav:
-  - 'Configuration':
-      - 'Base': 'index.md'
-      - 'Ventes': 'sale.md'
-      - 'Finances': 'finance.md'
-      - 'Communication': 'comunication.md'
+  - 'Home': 'index.md'
+  - 'Configuration de base':
+      - 'Sécurité': 'settings/security.md'
+      - 'Paramètres globaux': 'settings/parameters.md'
+      - 'Communication': 'settings/comunication.md'
+  - 'Concept':
+      - 'Identity': 'concept/identity.md'
+      - 'Finances': 'concept/finance.md'
+      - 'Ventes': 'concept/sale.md'
+      - 'Points de vente': 'concept/cashdesk.md'
+      - 'Documents': 'concept/documents.md'
