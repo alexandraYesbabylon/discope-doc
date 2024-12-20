@@ -39,9 +39,9 @@ EMAIL_SMTP_ABUSE_EMAIL : Adresse e-mail pour signaler les abus.
 
 La configuration de templates permet de créer des modèles d’e-mails destinés aux clients. Chaque modèle est composé de plusieurs sections :  
 
-- **Objet** : Définir le titre ou sujet de l'e-mail.  
-- **Corps** : Rédiger le contenu principal du message.  
-- **En-tête (header)** et **Pied de page (footer)** : Sections facultatives pour structurer l’e-mail.  
+- Objet : Définir le titre ou sujet de l'e-mail.  
+- Corps : Rédiger le contenu principal du message.  
+- En-tête (header) et Pied de page (footer) : Sections facultatives pour structurer l’e-mail.  
 
 Ces modèles sont associés à une catégorie spécifique et à un type prédéfini, tels que :  
 
