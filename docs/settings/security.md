@@ -3,6 +3,7 @@
 ## Utilisateurs
 
 Pour configurer un nouvel utilisateur, il est nécessaire de renseigner les informations suivantes :
+
 - Sélectionner une **identité existante**.
 - Fournir une **adresse email** et un **mot de passe**.
 - Attribuer un **nom d’utilisateur**.
